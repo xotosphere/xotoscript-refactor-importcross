@@ -51,7 +51,7 @@ async function convert () {
         counter++; 
 
 		// Logs the progress percentage to the console
-        console.log(Math.floor(100 / total * counter)); 
+			console.log(Math.floor(100 / total * counter)); 
 
 		// Calls the parseFile function to replace the old import path with the new import path in the file
 		await parseFile(file); 

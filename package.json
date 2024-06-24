@@ -1,5 +1,5 @@
 {
-	"name": "xotoscript-refactor-importglobal",
+	"name": "xotoscript-refactor-importcross",
 	"version": "0.0.1",
 	"scripts": {
 	  "boot": "yarn install && yarn run compile",
